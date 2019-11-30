@@ -1,0 +1,8 @@
+{
+  "name": "ionicLinkedIntry",
+  "integrations": {
+    "cordova": {},
+    "capacitor": {}
+  },
+  "type": "angular"
+}
